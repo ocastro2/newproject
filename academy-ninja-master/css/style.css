@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+    
+body{
+    width: 900px; height: 750px;
+    background-image: url('../img/white_bg.jpg');
+}
